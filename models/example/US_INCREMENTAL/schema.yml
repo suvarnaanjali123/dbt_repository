@@ -1,0 +1,7 @@
+version: 2
+sources:
+  - name: DEVELOPER_DB
+    database: DEVELOPER_DB
+    schema: ANJALI_SCHEMA
+    tables:
+      - name: US_ACCIDENT_DATA_RAW_STAGE
